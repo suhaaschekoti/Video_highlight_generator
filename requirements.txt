@@ -1,0 +1,20 @@
+# core pipeline (all free / open source)
+groq>=0.11.0
+librosa>=0.10.1
+soundfile>=0.12.1
+numpy>=1.26.0
+scenedetect>=0.6.3
+opencv-python-headless>=4.9.0
+python-dotenv>=1.0.0
+
+# web UI
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+python-multipart>=0.0.9
+pydantic>=2.0
+
+# video from a URL (YouTube etc.)
+yt-dlp>=2024.4.9
+
+# optional: offline transcription instead of the Groq API (no PyTorch needed)
+faster-whisper>=1.0.0

@@ -1,0 +1,8 @@
+{
+  "_comment": "Hand-labelled highlight intervals (seconds) for data/input/example.mp4. Used by src/evaluate.py.",
+  "highlights": [
+    {"start": 62.0, "end": 78.5},
+    {"start": 214.0, "end": 231.0},
+    {"start": 405.5, "end": 419.0}
+  ]
+}

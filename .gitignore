@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.env
+data/input/*
+data/output/*
+data/transcripts/*
+data/jobs/*
+data/learned_weights.json
+!data/**/.gitkeep
